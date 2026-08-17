@@ -1,0 +1,31 @@
+// // Make a C program that uses a void function. The 'Happy Birthday' lyrics should be repeated 3 times. The user's name should be entered at runtime, and the program should use the string library (string.h)
+// #include <stdio.h>
+// #include <string.h>
+
+
+// void printBirthdayMessage(char name[], int age) {
+//     printf("Happy Birthday, %s!\n", name);
+//     printf("Wishing you a day filled with love and joy.\n");
+//     printf("May all your dreams come true!\n");
+//     printf("Happy Birthday to you!\n\n");
+//     printf("Happy Birthday, %s!\n", name);
+//     printf("You are %d years old!\n", age);
+//     printf("Wishing you a day filled with love and joy.\n");
+//     printf("May all your dreams come true!\n");
+//     printf("Happy Birthday to you!\n\n");
+// }
+
+// int main() {
+//     char name[100];
+//     int age;
+//     printf("Enter your name: ");
+//     scanf("%99s", name);
+//     printf("Enter your age: ");
+//     scanf("%d", &age);
+//  {
+//         printBirthdayMessage(name, age);
+//     }
+
+//     return 0;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               +
+              m                                                                                                                                                                                                                                                                                                                  mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm               -
+              + 
